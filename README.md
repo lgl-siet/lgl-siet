@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lgl-siet
+- 👋 Hi, I’m Niels Siethoff
 - 👀 I’m interested in all things geospatial and moderen data transfare via web protocols
 - 🌱 I’m currently learning OGC APIs and observability
-- 📫 How to reach me geodatendienste@lgl.bwl.de
+- 📫 How to reach me geodatendienste@lgl.bwl.de or niels.siethoff@lgl.bwl.de
 - 😄 Pronouns: [x] don't care 
 
 
